@@ -1,1 +1,1 @@
-echo "Hola Paco"
+exit 0
